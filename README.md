@@ -1,6 +1,8 @@
 # Algorithms and Data Structures Projects
 
-This repository contains five projects completed for the **Algorithms and Data Structures** module during my 2nd year at **Sheffield Hallam University**. Each project demonstrates the application of algorithmic concepts, data structure design, and complexity analysis.
+This repository contains four projects completed for the **Algorithms and Data Structures** module during my 2nd year at **Sheffield Hallam University**. Each project demonstrates the application of algorithmic concepts, data structure design, and complexity analysis.
+
+> **Note:** Project 4, which focused on designing a heuristic algorithm for the Weights and Load problem, was an external non-coding task and is not included in this repository.
 
 ## Project 1: Algorithmic Complexity (10%)
 - **Objective:** Calculate the computational complexity of a nested loop algorithm and represent it in Big-O notation.
